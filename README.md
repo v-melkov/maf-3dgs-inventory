@@ -131,17 +131,21 @@
 Заполнение этого пробела путем адаптации метода 3D Gaussian Splatting и разработки методики постобработки гауссианов для задач автоматизированной инвентаризации МАФ составляет научную новизну данного магистерского исследования.
 
 Список использованных источников (для вставки в библиографию):
-[1] Somanath, S., et al. "Towards Urban Digital Twins: A Workflow for Procedural Visualization Using Geospatial Data." Remote Sensing, 2024.
-[2] Wegner, J. D., et al. "Cataloging Public Objects Using Aerial and Street-Level Images." CVPR, 2016.
-[3] Sestras, P., et al. "Land surveying with UAV photogrammetry and LiDAR for optimal building planning." Automation in Construction, 2025.
-[4] Zhou, Y., et al. "Street-view imagery guided street furniture inventory from mobile laser scanning point clouds." Remote Sensing, 2022.
-[5] Wegner, J. D., et al. "Cataloging Public Objects Using Aerial and Street-Level Images." CVPR, 2016.
-[6] Najafi Kajabad, A., et al. "YOLOv4 for Urban Object Detection: Case of Electronic Inventory in St. Petersburg." 2020.
-[7] Krylov, V. A., et al. "Automatic Discovery and Geotagging of Objects from Street View Imagery." Remote Sensing, 2018.
-[8] Bao, G., et al. "3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities." arXiv preprint, 2024.
+[1] Somanath, S., et al. "Towards Urban Digital Twins: A Workflow for Procedural Visualization Using Geospatial Data." Remote Sensing, 2024. 
+
+[2] Wegner, J. D., et al. "Cataloging Public Objects Using Aerial and Street-Level Images." CVPR, 2016. 
+
+[3] Sestras, P., et al. "Land surveying with UAV photogrammetry and LiDAR for optimal building planning." Automation in Construction, 2025. 
+
+[4] Zhou, Y., et al. "Street-view imagery guided street furniture inventory from mobile laser scanning point clouds." Remote Sensing, 2022. 
+
+[5] Wegner, J. D., et al. "Cataloging Public Objects Using Aerial and Street-Level Images." CVPR, 2016.  
+[6] Najafi Kajabad, A., et al. "YOLOv4 for Urban Object Detection: Case of Electronic Inventory in St. Petersburg." 2020.  
+[7] Krylov, V. A., et al. "Automatic Discovery and Geotagging of Objects from Street View Imagery." Remote Sensing, 2018.  
+[8] Bao, G., et al. "3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities." arXiv preprint, 2024.  
 [9] Wu, T., et al. "A Survey on 3D Gaussian Splatting." 2024.
-[10] Various Authors. "Advances in 3D Gaussian Splatting for Segmentation, Editing, and Generation." 2024-2025 Surveys.
-[11] Qin, M., et al. "LangSplat: 3D Language Gaussian Splatting." CVPR, 2024.
-[12] Sun, J., et al. "Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian." CVPR, 2026.
-[13] Guédon, A., & Lepetit, V. "SuGaR: Surface-Aligned Gaussian Splatting." CVPR, 2024.
-[14] Recent works on 3DGS editing and evaluation frameworks (2024-2025).
+[10] Various Authors. "Advances in 3D Gaussian Splatting for   Segmentation, Editing, and Generation." 2024-2025 Surveys.
+[11] Qin, M., et al. "LangSplat: 3D Language Gaussian Splatting." CVPR, 2024.  
+[12] Sun, J., et al. "Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian." CVPR, 2026.  
+[13] Guédon, A., & Lepetit, V. "SuGaR: Surface-Aligned Gaussian Splatting." CVPR, 2024.  
+[14] Recent works on 3DGS editing and evaluation frameworks (2024-2025).  
