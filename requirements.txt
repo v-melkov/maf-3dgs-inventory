@@ -1,0 +1,8 @@
+sharp-frame-extractor==2.0.0
+exifread
+ffmpeg-python
+numpy
+opencv-python
+ultralytics
+git+https://github.com/ultralytics/CLIP.git
+timm

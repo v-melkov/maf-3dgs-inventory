@@ -1,10 +1,15 @@
 ### 1. Подготовка
-Установите [cuda toolkit](cuda_toolkit.md)
+Если видеокарта NVidia поддерживает CUDA, установите [cuda toolkit](cuda_toolkit.md)
 
 ### 2. Установка pytorch
-
+с поддержкой CUDA
 ```bash
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu132
+```
+
+без поддержки CUDA
+```bash
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 ```
 ### 3. Проверка
 ```python
@@ -21,7 +26,7 @@ tensor([[0.3380, 0.3845, 0.3217],
         [0.1449, 0.1132, 0.1375],
         [0.4675, 0.3947, 0.1426]])
 ```
-Также проверьте, что GPU-драйвер и  CUDA установлены и работают:
+Также проверьте, что GPU-драйвер и  CUDA (если есть) установлены и работают:
 ```python
 import torch
 torch.cuda.is_available()
