@@ -14,8 +14,13 @@
 Откройте терминал вашего дистрибутива Ubuntu в WSL и выполните команды.
 
 ```bash
-wget https://developer.download.nvidia.com/compute/cuda/13.2.0/local_installers/cuda_13.2.0_595.45.04_linux.run
-sudo sh cuda_13.2.0_595.45.04_linux.run
+sudo apt update && sudo apt upgrade
+sudo apt install gcc
+
+wget https://developer.download.nvidia.com/compute/cuda/repos/wsl-ubuntu/x86_64/cuda-keyring_1.1-1_all.deb
+sudo dpkg -i cuda-keyring_1.1-1_all.deb
+sudo apt-get update
+sudo apt-get -y install cuda-toolkit-13-2
 ```
 
 
@@ -25,6 +30,7 @@ sudo sh cuda_13.2.0_595.45.04_linux.run
 
 ```bash
 echo 'export CUDA_PATH=/usr/local/cuda-13.2/' >> ~/.bashrc
+echo 'export CUDA_HOME=/usr/local/cuda-13.2/' >> ~/.bashrc
 echo 'export PATH=$CUDA_PATH/bin:$PATH' >> ~/.bashrc
 echo 'export LD_LIBRARY_PATH=$CUDA_PATH/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc
 source ~/.bashrc
