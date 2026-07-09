@@ -1,5 +1,14 @@
 ### 1. Подготовка
-Если видеокарта NVidia поддерживает CUDA, установите [cuda toolkit](cuda_toolkit.md)
+
+Если видеокарта NVidia поддерживает CUDA, установите [cuda toolkit](cuda_toolkit.md)  
+  
+Установите [miniconda](conda.md)  
+Создайте новое окружение Python
+```bash
+conda create -n 3dgs-maf python=3.13 -y
+conda activate 3dgs-maf
+```
+
 
 ### 2. Установка pytorch
 с поддержкой CUDA
