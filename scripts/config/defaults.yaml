@@ -1,0 +1,99 @@
+# Значения по умолчанию для всех этапов.
+# Переопределяются файлом конфигурации сессии (--config).
+# Все пороги проверок собраны здесь намеренно: они входят в отчёты этапов
+# и должны быть воспроизводимы без чтения исходного кода.
+
+# --- Этап 01. Приём исходного материала ---
+ingest:
+  min_duration_s: 30          # короче — обход объекта заведомо неполный
+  min_long_side: 3840         # п. 2.4.2: рекомендованное разрешение
+  min_fps: 30                 # п. 2.4.2: ниже вероятен смаз при движении
+  max_series_gap_s: 2.0       # допустимый разрыв между файлами одной серии
+
+# --- Время ---
+time:
+  # Поправка часов камеры относительно шкалы ГНСС, с (п. 2.4.4.3).
+  # Определяется съёмкой индикатора точного времени в начале обхода:
+  # положительное значение — часы камеры отстают.
+  clock_offset_s: 0.0
+  # Начало записи в UTC. Если не задано, берётся из метаданных файла.
+  video_start_utc: null
+
+# --- Этап 02. Извлечение и отбор кадров ---
+frames:
+  extract_fps: 10             # шаг разбора; квантование времени = 1/(2*fps)
+  num_frames: 150             # размер рабочего набора (п. 2.1.2)
+  selection_method: best-n
+  min_buffer: 3               # минимальный разрыв между отобранными кадрами
+  jpeg_quality_scale: 2       # -qscale:v для ffmpeg, 2 — практически без потерь
+  min_frames_hard: 30         # ниже — отказ
+
+# --- Этап 03. Трек ГНСС ---
+track:
+  source: video               # video | gpx | nmea
+  path: null                  # путь к файлу при source: gpx или nmea
+  frequency_hz: 5
+  resampling_method: linear   # линейная интерполяция: обход состоит из
+                              # поворотов, на которых lpf вносит запаздывание
+  timezone_offset_h: 0
+  max_gap_s: 5.0
+  max_uncovered_s: 10.0       # непокрытие интервала съёмки больше — отказ
+  jump_factor: 3.0            # скачок относительно медианного шага
+  min_length_m: 5.0
+
+# --- Этап 04. Присвоение координат ---
+geotag:
+  max_interpolate_s: 30       # интерполяция через разрыв не длиннее
+  max_extrapolate_s: 5        # экстраполяция за пределы трека
+  min_share_warn: 0.95
+  min_share_fail: 0.80
+  min_span_m: 1.0             # нулевой разброс = одна отметка на все кадры
+  max_span_m: 500.0           # несоразмерно обходу одного объекта
+
+# --- Этап 05. Оценка поз камер ---
+sfm:
+  # OPENCV — модель с дисторсией: реальные объективы камер потребительского
+  # класса нелинейны. PINHOLE допустим только для заведомо
+  # недисторсированных изображений.
+  camera_model: OPENCV
+  use_gpu: true
+  max_image_size: 3200
+  matcher: auto               # auto | exhaustive | sequential
+  exhaustive_limit: 400
+  max_num_matches: 32768
+  sequential_overlap: 15
+  vocab_tree_path: null       # включает обнаружение петель при sequential
+  min_registered_warn: 0.90
+  min_registered_fail: 0.70
+  max_reproj_error: 1.5
+  min_track_length: 4.0
+
+# --- Этап 06. Сегментация ---
+segment:
+  prompt: null                # задаётся ключом --prompt
+  detector_model: IDEA-Research/grounding-dino-base
+  box_threshold: 0.30
+  text_threshold: 0.25
+  ref_min_score: 0.40         # порог для выбора опорного кадра
+  detect_samples: 20          # сколько кадров просматривает детектор
+  sam2_config: configs/sam2.1/sam2.1_hiera_l.yaml
+  sam2_checkpoint: checkpoints/sam2.1_hiera_large.pt
+  min_area_frac: 0.0005       # маска меньше — считается несформированной
+  max_area_jump: 0.5          # относительный скачок площади между кадрами
+  max_rejected_share: 0.20    # отбраковано больше — отказ этапа
+
+# --- Этап 07. Обучение ---
+train:
+  binary: null                # полный путь к lichtfeld-studio, если не в PATH
+  images_dir_name: images
+  masks_dir_name: masks       # ТРЕБУЕТ ПРОВЕРКИ на вашей сборке, см. README
+  iterations: 30000
+  strategy: mcmc
+  sh_degree: 3
+  max_cap: null
+  resize_factor: null         # 2 или 4 при нехватке видеопамяти
+  tile_mode: null             # 2 или 4 при нехватке видеопамяти
+  eval: true
+  min_free_vram_gib: 6.0
+  min_frames_warn: 40
+  min_gaussians: 10000        # меньше — вероятна инверсия масок
