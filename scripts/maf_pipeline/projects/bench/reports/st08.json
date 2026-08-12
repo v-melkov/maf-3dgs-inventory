@@ -1,0 +1,40 @@
+{
+  "stage": "st06_scale",
+  "frames_total": 102,
+  "frames_in_model": 97,
+  "markers": {
+    "1": {
+      "n_views": 14,
+      "n_rejected": 31,
+      "rms_px": 1.4582762412526011,
+      "median_px": 1.4184961201598372,
+      "p90_px": 1.918604711638816,
+      "max_px": 2.1848706813820056
+    },
+    "2": {
+      "n_views": 22,
+      "n_rejected": 16,
+      "rms_px": 1.4748094287677953,
+      "median_px": 1.1640669191350304,
+      "p90_px": 2.3397141992545345,
+      "max_px": 2.695259936260315
+    }
+  },
+  "pairs": [
+    {
+      "pair": "1-2",
+      "measured_mm": 1000.0,
+      "model_units": 3.0957475877071525,
+      "k_mm_per_unit": 323.02375166854097
+    }
+  ],
+  "scale_factor_mm_per_unit": 323.02375166854097,
+  "scale_rmse_pct": 0.022330760658495565,
+  "rmse_source": "bootstrap",
+  "bootstrap": {
+    "n_iterations": 50,
+    "mean": 323.01916285129596,
+    "std": 0.07213263613739893,
+    "rel_std_pct": 0.022330760658495565
+  }
+}
