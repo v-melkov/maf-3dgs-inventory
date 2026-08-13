@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-st06_scale.py — определение масштабного коэффициента модели по линейному эталону.
+st08_scale.py — определение масштабного коэффициента модели по линейному эталону.
 
 Детектирует маркеры ArUco на кадрах, выполняет пространственную засечку их
 центров по параметрам камер, восстановленным COLMAP, и вычисляет масштабный
@@ -464,7 +464,7 @@ def main():
               f"{p['model_units']:.6f} ед. = {p['k_mm_per_unit']:.3f} мм/ед.")
 
     report = {
-        "stage": "st06_scale",
+        "stage": "st08_scale",
         "frames_total": total,
         "frames_in_model": scanned,
         "markers": per_marker,
