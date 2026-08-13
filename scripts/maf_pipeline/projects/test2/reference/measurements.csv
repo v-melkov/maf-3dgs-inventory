@@ -1,0 +1,4 @@
+parameter,nominal_mm,measured_mm,instrument,operator,date,notes
+length,,,рулетка,,,
+width,,,рулетка,,,
+height,,,рулетка,,,

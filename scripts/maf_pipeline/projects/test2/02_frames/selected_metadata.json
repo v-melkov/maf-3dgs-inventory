@@ -1,0 +1,914 @@
+{
+  "input_path": "00_source/IMG_2049.MOV",
+  "input_type": "video",
+  "total_selected": 150,
+  "total_saved": 150,
+  "total_failed": 0,
+  "output_format": "jpg",
+  "selection_method": "best-n",
+  "resize_width": null,
+  "num_frames_requested": 150,
+  "min_buffer": 3,
+  "selected_items": [
+    {
+      "output_filename": "frame_00001.jpg",
+      "original_id": "frame_00005.jpg",
+      "original_index": 4,
+      "sharpness_score": 159.67987319523758
+    },
+    {
+      "output_filename": "frame_00002.jpg",
+      "original_id": "frame_00016.jpg",
+      "original_index": 15,
+      "sharpness_score": 158.21351937029138
+    },
+    {
+      "output_filename": "frame_00003.jpg",
+      "original_id": "frame_00026.jpg",
+      "original_index": 25,
+      "sharpness_score": 155.05936823950316
+    },
+    {
+      "output_filename": "frame_00004.jpg",
+      "original_id": "frame_00037.jpg",
+      "original_index": 36,
+      "sharpness_score": 159.93390550521974
+    },
+    {
+      "output_filename": "frame_00005.jpg",
+      "original_id": "frame_00048.jpg",
+      "original_index": 47,
+      "sharpness_score": 163.2005224537537
+    },
+    {
+      "output_filename": "frame_00006.jpg",
+      "original_id": "frame_00059.jpg",
+      "original_index": 58,
+      "sharpness_score": 166.7035070362641
+    },
+    {
+      "output_filename": "frame_00007.jpg",
+      "original_id": "frame_00069.jpg",
+      "original_index": 68,
+      "sharpness_score": 179.67390238770707
+    },
+    {
+      "output_filename": "frame_00008.jpg",
+      "original_id": "frame_00080.jpg",
+      "original_index": 79,
+      "sharpness_score": 139.77700599877937
+    },
+    {
+      "output_filename": "frame_00009.jpg",
+      "original_id": "frame_00090.jpg",
+      "original_index": 89,
+      "sharpness_score": 178.639159269662
+    },
+    {
+      "output_filename": "frame_00010.jpg",
+      "original_id": "frame_00101.jpg",
+      "original_index": 100,
+      "sharpness_score": 193.67738803088105
+    },
+    {
+      "output_filename": "frame_00011.jpg",
+      "original_id": "frame_00112.jpg",
+      "original_index": 111,
+      "sharpness_score": 197.67580712267525
+    },
+    {
+      "output_filename": "frame_00012.jpg",
+      "original_id": "frame_00122.jpg",
+      "original_index": 121,
+      "sharpness_score": 206.4464138755174
+    },
+    {
+      "output_filename": "frame_00013.jpg",
+      "original_id": "frame_00133.jpg",
+      "original_index": 132,
+      "sharpness_score": 220.6708892781216
+    },
+    {
+      "output_filename": "frame_00014.jpg",
+      "original_id": "frame_00143.jpg",
+      "original_index": 142,
+      "sharpness_score": 260.7447647046891
+    },
+    {
+      "output_filename": "frame_00015.jpg",
+      "original_id": "frame_00154.jpg",
+      "original_index": 153,
+      "sharpness_score": 267.71932031274616
+    },
+    {
+      "output_filename": "frame_00016.jpg",
+      "original_id": "frame_00165.jpg",
+      "original_index": 164,
+      "sharpness_score": 235.73690776456073
+    },
+    {
+      "output_filename": "frame_00017.jpg",
+      "original_id": "frame_00176.jpg",
+      "original_index": 175,
+      "sharpness_score": 234.3074651829551
+    },
+    {
+      "output_filename": "frame_00018.jpg",
+      "original_id": "frame_00186.jpg",
+      "original_index": 185,
+      "sharpness_score": 249.49109004163074
+    },
+    {
+      "output_filename": "frame_00019.jpg",
+      "original_id": "frame_00197.jpg",
+      "original_index": 196,
+      "sharpness_score": 253.84581951729118
+    },
+    {
+      "output_filename": "frame_00020.jpg",
+      "original_id": "frame_00207.jpg",
+      "original_index": 206,
+      "sharpness_score": 195.3409818049265
+    },
+    {
+      "output_filename": "frame_00021.jpg",
+      "original_id": "frame_00218.jpg",
+      "original_index": 217,
+      "sharpness_score": 200.45002032945445
+    },
+    {
+      "output_filename": "frame_00022.jpg",
+      "original_id": "frame_00228.jpg",
+      "original_index": 227,
+      "sharpness_score": 209.18390447490833
+    },
+    {
+      "output_filename": "frame_00023.jpg",
+      "original_id": "frame_00239.jpg",
+      "original_index": 238,
+      "sharpness_score": 205.6918874505801
+    },
+    {
+      "output_filename": "frame_00024.jpg",
+      "original_id": "frame_00250.jpg",
+      "original_index": 249,
+      "sharpness_score": 210.99332357798608
+    },
+    {
+      "output_filename": "frame_00025.jpg",
+      "original_id": "frame_00260.jpg",
+      "original_index": 259,
+      "sharpness_score": 211.28265552431304
+    },
+    {
+      "output_filename": "frame_00026.jpg",
+      "original_id": "frame_00271.jpg",
+      "original_index": 270,
+      "sharpness_score": 190.51582797419653
+    },
+    {
+      "output_filename": "frame_00027.jpg",
+      "original_id": "frame_00281.jpg",
+      "original_index": 280,
+      "sharpness_score": 201.51741991603404
+    },
+    {
+      "output_filename": "frame_00028.jpg",
+      "original_id": "frame_00292.jpg",
+      "original_index": 291,
+      "sharpness_score": 184.6995202671484
+    },
+    {
+      "output_filename": "frame_00029.jpg",
+      "original_id": "frame_00303.jpg",
+      "original_index": 302,
+      "sharpness_score": 207.63647033404828
+    },
+    {
+      "output_filename": "frame_00030.jpg",
+      "original_id": "frame_00313.jpg",
+      "original_index": 312,
+      "sharpness_score": 198.40768496639194
+    },
+    {
+      "output_filename": "frame_00031.jpg",
+      "original_id": "frame_00324.jpg",
+      "original_index": 323,
+      "sharpness_score": 193.96315426809463
+    },
+    {
+      "output_filename": "frame_00032.jpg",
+      "original_id": "frame_00335.jpg",
+      "original_index": 334,
+      "sharpness_score": 209.75926734013726
+    },
+    {
+      "output_filename": "frame_00033.jpg",
+      "original_id": "frame_00345.jpg",
+      "original_index": 344,
+      "sharpness_score": 206.04267826559095
+    },
+    {
+      "output_filename": "frame_00034.jpg",
+      "original_id": "frame_00356.jpg",
+      "original_index": 355,
+      "sharpness_score": 172.39715747501205
+    },
+    {
+      "output_filename": "frame_00035.jpg",
+      "original_id": "frame_00367.jpg",
+      "original_index": 366,
+      "sharpness_score": 182.2517554361191
+    },
+    {
+      "output_filename": "frame_00036.jpg",
+      "original_id": "frame_00377.jpg",
+      "original_index": 376,
+      "sharpness_score": 204.68219078621001
+    },
+    {
+      "output_filename": "frame_00037.jpg",
+      "original_id": "frame_00388.jpg",
+      "original_index": 387,
+      "sharpness_score": 184.31308289830176
+    },
+    {
+      "output_filename": "frame_00038.jpg",
+      "original_id": "frame_00398.jpg",
+      "original_index": 397,
+      "sharpness_score": 180.1493046289276
+    },
+    {
+      "output_filename": "frame_00039.jpg",
+      "original_id": "frame_00409.jpg",
+      "original_index": 408,
+      "sharpness_score": 187.40923973336956
+    },
+    {
+      "output_filename": "frame_00040.jpg",
+      "original_id": "frame_00420.jpg",
+      "original_index": 419,
+      "sharpness_score": 176.94819456219338
+    },
+    {
+      "output_filename": "frame_00041.jpg",
+      "original_id": "frame_00430.jpg",
+      "original_index": 429,
+      "sharpness_score": 173.64560383911243
+    },
+    {
+      "output_filename": "frame_00042.jpg",
+      "original_id": "frame_00441.jpg",
+      "original_index": 440,
+      "sharpness_score": 151.6639956968896
+    },
+    {
+      "output_filename": "frame_00043.jpg",
+      "original_id": "frame_00451.jpg",
+      "original_index": 450,
+      "sharpness_score": 133.04125678854396
+    },
+    {
+      "output_filename": "frame_00044.jpg",
+      "original_id": "frame_00462.jpg",
+      "original_index": 461,
+      "sharpness_score": 130.59011661281215
+    },
+    {
+      "output_filename": "frame_00045.jpg",
+      "original_id": "frame_00473.jpg",
+      "original_index": 472,
+      "sharpness_score": 134.3185134579933
+    },
+    {
+      "output_filename": "frame_00046.jpg",
+      "original_id": "frame_00483.jpg",
+      "original_index": 482,
+      "sharpness_score": 136.48864682746998
+    },
+    {
+      "output_filename": "frame_00047.jpg",
+      "original_id": "frame_00494.jpg",
+      "original_index": 493,
+      "sharpness_score": 133.36559497504996
+    },
+    {
+      "output_filename": "frame_00048.jpg",
+      "original_id": "frame_00505.jpg",
+      "original_index": 504,
+      "sharpness_score": 139.15080634573224
+    },
+    {
+      "output_filename": "frame_00049.jpg",
+      "original_id": "frame_00515.jpg",
+      "original_index": 514,
+      "sharpness_score": 143.69015683249347
+    },
+    {
+      "output_filename": "frame_00050.jpg",
+      "original_id": "frame_00526.jpg",
+      "original_index": 525,
+      "sharpness_score": 190.33302802934747
+    },
+    {
+      "output_filename": "frame_00051.jpg",
+      "original_id": "frame_00537.jpg",
+      "original_index": 536,
+      "sharpness_score": 264.14008402892364
+    },
+    {
+      "output_filename": "frame_00052.jpg",
+      "original_id": "frame_00547.jpg",
+      "original_index": 546,
+      "sharpness_score": 262.7034589598034
+    },
+    {
+      "output_filename": "frame_00053.jpg",
+      "original_id": "frame_00558.jpg",
+      "original_index": 557,
+      "sharpness_score": 284.8835975419808
+    },
+    {
+      "output_filename": "frame_00054.jpg",
+      "original_id": "frame_00568.jpg",
+      "original_index": 567,
+      "sharpness_score": 272.3268633571096
+    },
+    {
+      "output_filename": "frame_00055.jpg",
+      "original_id": "frame_00579.jpg",
+      "original_index": 578,
+      "sharpness_score": 272.64061279927324
+    },
+    {
+      "output_filename": "frame_00056.jpg",
+      "original_id": "frame_00590.jpg",
+      "original_index": 589,
+      "sharpness_score": 284.60917455030847
+    },
+    {
+      "output_filename": "frame_00057.jpg",
+      "original_id": "frame_00600.jpg",
+      "original_index": 599,
+      "sharpness_score": 305.7510937709808
+    },
+    {
+      "output_filename": "frame_00058.jpg",
+      "original_id": "frame_00611.jpg",
+      "original_index": 610,
+      "sharpness_score": 280.2386175297209
+    },
+    {
+      "output_filename": "frame_00059.jpg",
+      "original_id": "frame_00622.jpg",
+      "original_index": 621,
+      "sharpness_score": 290.48339547651085
+    },
+    {
+      "output_filename": "frame_00060.jpg",
+      "original_id": "frame_00632.jpg",
+      "original_index": 631,
+      "sharpness_score": 283.99942735318353
+    },
+    {
+      "output_filename": "frame_00061.jpg",
+      "original_id": "frame_00643.jpg",
+      "original_index": 642,
+      "sharpness_score": 281.7884726328073
+    },
+    {
+      "output_filename": "frame_00062.jpg",
+      "original_id": "frame_00654.jpg",
+      "original_index": 653,
+      "sharpness_score": 287.7786807102779
+    },
+    {
+      "output_filename": "frame_00063.jpg",
+      "original_id": "frame_00664.jpg",
+      "original_index": 663,
+      "sharpness_score": 294.4772174201668
+    },
+    {
+      "output_filename": "frame_00064.jpg",
+      "original_id": "frame_00675.jpg",
+      "original_index": 674,
+      "sharpness_score": 290.14527444507866
+    },
+    {
+      "output_filename": "frame_00065.jpg",
+      "original_id": "frame_00686.jpg",
+      "original_index": 685,
+      "sharpness_score": 292.3298282791952
+    },
+    {
+      "output_filename": "frame_00066.jpg",
+      "original_id": "frame_00696.jpg",
+      "original_index": 695,
+      "sharpness_score": 299.0328770698414
+    },
+    {
+      "output_filename": "frame_00067.jpg",
+      "original_id": "frame_00707.jpg",
+      "original_index": 706,
+      "sharpness_score": 320.03159353087085
+    },
+    {
+      "output_filename": "frame_00068.jpg",
+      "original_id": "frame_00717.jpg",
+      "original_index": 716,
+      "sharpness_score": 283.30058361916366
+    },
+    {
+      "output_filename": "frame_00069.jpg",
+      "original_id": "frame_00728.jpg",
+      "original_index": 727,
+      "sharpness_score": 294.28121243919156
+    },
+    {
+      "output_filename": "frame_00070.jpg",
+      "original_id": "frame_00738.jpg",
+      "original_index": 737,
+      "sharpness_score": 310.5173937842843
+    },
+    {
+      "output_filename": "frame_00071.jpg",
+      "original_id": "frame_00749.jpg",
+      "original_index": 748,
+      "sharpness_score": 340.0379872683363
+    },
+    {
+      "output_filename": "frame_00072.jpg",
+      "original_id": "frame_00760.jpg",
+      "original_index": 759,
+      "sharpness_score": 364.31852745204765
+    },
+    {
+      "output_filename": "frame_00073.jpg",
+      "original_id": "frame_00770.jpg",
+      "original_index": 769,
+      "sharpness_score": 373.0403969129228
+    },
+    {
+      "output_filename": "frame_00074.jpg",
+      "original_id": "frame_00781.jpg",
+      "original_index": 780,
+      "sharpness_score": 390.2002757374756
+    },
+    {
+      "output_filename": "frame_00075.jpg",
+      "original_id": "frame_00792.jpg",
+      "original_index": 791,
+      "sharpness_score": 417.70788047394456
+    },
+    {
+      "output_filename": "frame_00076.jpg",
+      "original_id": "frame_00803.jpg",
+      "original_index": 802,
+      "sharpness_score": 463.84326306187455
+    },
+    {
+      "output_filename": "frame_00077.jpg",
+      "original_id": "frame_00813.jpg",
+      "original_index": 812,
+      "sharpness_score": 446.23142539151013
+    },
+    {
+      "output_filename": "frame_00078.jpg",
+      "original_id": "frame_00823.jpg",
+      "original_index": 822,
+      "sharpness_score": 459.66159895955536
+    },
+    {
+      "output_filename": "frame_00079.jpg",
+      "original_id": "frame_00834.jpg",
+      "original_index": 833,
+      "sharpness_score": 458.08892070896127
+    },
+    {
+      "output_filename": "frame_00080.jpg",
+      "original_id": "frame_00845.jpg",
+      "original_index": 844,
+      "sharpness_score": 424.0772279731047
+    },
+    {
+      "output_filename": "frame_00081.jpg",
+      "original_id": "frame_00856.jpg",
+      "original_index": 855,
+      "sharpness_score": 381.01181504913916
+    },
+    {
+      "output_filename": "frame_00082.jpg",
+      "original_id": "frame_00866.jpg",
+      "original_index": 865,
+      "sharpness_score": 446.76446397810713
+    },
+    {
+      "output_filename": "frame_00083.jpg",
+      "original_id": "frame_00877.jpg",
+      "original_index": 876,
+      "sharpness_score": 434.168968419309
+    },
+    {
+      "output_filename": "frame_00084.jpg",
+      "original_id": "frame_00887.jpg",
+      "original_index": 886,
+      "sharpness_score": 421.8671218973033
+    },
+    {
+      "output_filename": "frame_00085.jpg",
+      "original_id": "frame_00898.jpg",
+      "original_index": 897,
+      "sharpness_score": 422.62717918205595
+    },
+    {
+      "output_filename": "frame_00086.jpg",
+      "original_id": "frame_00908.jpg",
+      "original_index": 907,
+      "sharpness_score": 434.47956804247406
+    },
+    {
+      "output_filename": "frame_00087.jpg",
+      "original_id": "frame_00919.jpg",
+      "original_index": 918,
+      "sharpness_score": 390.98790993075147
+    },
+    {
+      "output_filename": "frame_00088.jpg",
+      "original_id": "frame_00930.jpg",
+      "original_index": 929,
+      "sharpness_score": 451.72754114537076
+    },
+    {
+      "output_filename": "frame_00089.jpg",
+      "original_id": "frame_00941.jpg",
+      "original_index": 940,
+      "sharpness_score": 426.15941642930886
+    },
+    {
+      "output_filename": "frame_00090.jpg",
+      "original_id": "frame_00951.jpg",
+      "original_index": 950,
+      "sharpness_score": 536.8393529373919
+    },
+    {
+      "output_filename": "frame_00091.jpg",
+      "original_id": "frame_00962.jpg",
+      "original_index": 961,
+      "sharpness_score": 402.7823332416074
+    },
+    {
+      "output_filename": "frame_00092.jpg",
+      "original_id": "frame_00973.jpg",
+      "original_index": 972,
+      "sharpness_score": 617.4947515447324
+    },
+    {
+      "output_filename": "frame_00093.jpg",
+      "original_id": "frame_00983.jpg",
+      "original_index": 982,
+      "sharpness_score": 626.763087647712
+    },
+    {
+      "output_filename": "frame_00094.jpg",
+      "original_id": "frame_00994.jpg",
+      "original_index": 993,
+      "sharpness_score": 533.3719318660573
+    },
+    {
+      "output_filename": "frame_00095.jpg",
+      "original_id": "frame_01004.jpg",
+      "original_index": 1003,
+      "sharpness_score": 567.957538337327
+    },
+    {
+      "output_filename": "frame_00096.jpg",
+      "original_id": "frame_01015.jpg",
+      "original_index": 1014,
+      "sharpness_score": 417.86776733579757
+    },
+    {
+      "output_filename": "frame_00097.jpg",
+      "original_id": "frame_01025.jpg",
+      "original_index": 1024,
+      "sharpness_score": 328.6745316532874
+    },
+    {
+      "output_filename": "frame_00098.jpg",
+      "original_id": "frame_01036.jpg",
+      "original_index": 1035,
+      "sharpness_score": 297.31944757174483
+    },
+    {
+      "output_filename": "frame_00099.jpg",
+      "original_id": "frame_01047.jpg",
+      "original_index": 1046,
+      "sharpness_score": 348.1496834175865
+    },
+    {
+      "output_filename": "frame_00100.jpg",
+      "original_id": "frame_01057.jpg",
+      "original_index": 1056,
+      "sharpness_score": 342.1168844282388
+    },
+    {
+      "output_filename": "frame_00101.jpg",
+      "original_id": "frame_01068.jpg",
+      "original_index": 1067,
+      "sharpness_score": 478.0731571253885
+    },
+    {
+      "output_filename": "frame_00102.jpg",
+      "original_id": "frame_01079.jpg",
+      "original_index": 1078,
+      "sharpness_score": 581.8141610457257
+    },
+    {
+      "output_filename": "frame_00103.jpg",
+      "original_id": "frame_01086.jpg",
+      "original_index": 1085,
+      "sharpness_score": 584.3404069335452
+    },
+    {
+      "output_filename": "frame_00104.jpg",
+      "original_id": "frame_01100.jpg",
+      "original_index": 1099,
+      "sharpness_score": 553.3129268804227
+    },
+    {
+      "output_filename": "frame_00105.jpg",
+      "original_id": "frame_01110.jpg",
+      "original_index": 1109,
+      "sharpness_score": 642.7374599302351
+    },
+    {
+      "output_filename": "frame_00106.jpg",
+      "original_id": "frame_01121.jpg",
+      "original_index": 1120,
+      "sharpness_score": 519.3353337781098
+    },
+    {
+      "output_filename": "frame_00107.jpg",
+      "original_id": "frame_01133.jpg",
+      "original_index": 1132,
+      "sharpness_score": 609.7293746578974
+    },
+    {
+      "output_filename": "frame_00108.jpg",
+      "original_id": "frame_01143.jpg",
+      "original_index": 1142,
+      "sharpness_score": 598.8255472821038
+    },
+    {
+      "output_filename": "frame_00109.jpg",
+      "original_id": "frame_01153.jpg",
+      "original_index": 1152,
+      "sharpness_score": 570.4155398267001
+    },
+    {
+      "output_filename": "frame_00110.jpg",
+      "original_id": "frame_01163.jpg",
+      "original_index": 1162,
+      "sharpness_score": 532.8301681539897
+    },
+    {
+      "output_filename": "frame_00111.jpg",
+      "original_id": "frame_01174.jpg",
+      "original_index": 1173,
+      "sharpness_score": 522.6912034136162
+    },
+    {
+      "output_filename": "frame_00112.jpg",
+      "original_id": "frame_01185.jpg",
+      "original_index": 1184,
+      "sharpness_score": 507.5762317612291
+    },
+    {
+      "output_filename": "frame_00113.jpg",
+      "original_id": "frame_01195.jpg",
+      "original_index": 1194,
+      "sharpness_score": 509.631196852791
+    },
+    {
+      "output_filename": "frame_00114.jpg",
+      "original_id": "frame_01206.jpg",
+      "original_index": 1205,
+      "sharpness_score": 423.9573276975833
+    },
+    {
+      "output_filename": "frame_00115.jpg",
+      "original_id": "frame_01217.jpg",
+      "original_index": 1216,
+      "sharpness_score": 341.41837458738513
+    },
+    {
+      "output_filename": "frame_00116.jpg",
+      "original_id": "frame_01228.jpg",
+      "original_index": 1227,
+      "sharpness_score": 378.8130381369375
+    },
+    {
+      "output_filename": "frame_00117.jpg",
+      "original_id": "frame_01238.jpg",
+      "original_index": 1237,
+      "sharpness_score": 349.817835375817
+    },
+    {
+      "output_filename": "frame_00118.jpg",
+      "original_id": "frame_01248.jpg",
+      "original_index": 1247,
+      "sharpness_score": 367.65211400006694
+    },
+    {
+      "output_filename": "frame_00119.jpg",
+      "original_id": "frame_01259.jpg",
+      "original_index": 1258,
+      "sharpness_score": 362.8605330618491
+    },
+    {
+      "output_filename": "frame_00120.jpg",
+      "original_id": "frame_01270.jpg",
+      "original_index": 1269,
+      "sharpness_score": 354.5114261161913
+    },
+    {
+      "output_filename": "frame_00121.jpg",
+      "original_id": "frame_01280.jpg",
+      "original_index": 1279,
+      "sharpness_score": 364.9332369658032
+    },
+    {
+      "output_filename": "frame_00122.jpg",
+      "original_id": "frame_01291.jpg",
+      "original_index": 1290,
+      "sharpness_score": 402.5553395912553
+    },
+    {
+      "output_filename": "frame_00123.jpg",
+      "original_id": "frame_01302.jpg",
+      "original_index": 1301,
+      "sharpness_score": 342.3958476835486
+    },
+    {
+      "output_filename": "frame_00124.jpg",
+      "original_id": "frame_01313.jpg",
+      "original_index": 1312,
+      "sharpness_score": 298.33260405560907
+    },
+    {
+      "output_filename": "frame_00125.jpg",
+      "original_id": "frame_01323.jpg",
+      "original_index": 1322,
+      "sharpness_score": 279.7343045196279
+    },
+    {
+      "output_filename": "frame_00126.jpg",
+      "original_id": "frame_01333.jpg",
+      "original_index": 1332,
+      "sharpness_score": 250.37334609665348
+    },
+    {
+      "output_filename": "frame_00127.jpg",
+      "original_id": "frame_01344.jpg",
+      "original_index": 1343,
+      "sharpness_score": 187.96352529674
+    },
+    {
+      "output_filename": "frame_00128.jpg",
+      "original_id": "frame_01355.jpg",
+      "original_index": 1354,
+      "sharpness_score": 182.02181890963263
+    },
+    {
+      "output_filename": "frame_00129.jpg",
+      "original_id": "frame_01365.jpg",
+      "original_index": 1364,
+      "sharpness_score": 168.9451090373715
+    },
+    {
+      "output_filename": "frame_00130.jpg",
+      "original_id": "frame_01376.jpg",
+      "original_index": 1375,
+      "sharpness_score": 179.66153177919193
+    },
+    {
+      "output_filename": "frame_00131.jpg",
+      "original_id": "frame_01387.jpg",
+      "original_index": 1386,
+      "sharpness_score": 192.1636630039497
+    },
+    {
+      "output_filename": "frame_00132.jpg",
+      "original_id": "frame_01398.jpg",
+      "original_index": 1397,
+      "sharpness_score": 209.49200200324768
+    },
+    {
+      "output_filename": "frame_00133.jpg",
+      "original_id": "frame_01408.jpg",
+      "original_index": 1407,
+      "sharpness_score": 213.1452502501407
+    },
+    {
+      "output_filename": "frame_00134.jpg",
+      "original_id": "frame_01419.jpg",
+      "original_index": 1418,
+      "sharpness_score": 220.01301380527622
+    },
+    {
+      "output_filename": "frame_00135.jpg",
+      "original_id": "frame_01429.jpg",
+      "original_index": 1428,
+      "sharpness_score": 230.43837062644434
+    },
+    {
+      "output_filename": "frame_00136.jpg",
+      "original_id": "frame_01440.jpg",
+      "original_index": 1439,
+      "sharpness_score": 189.1089553902679
+    },
+    {
+      "output_filename": "frame_00137.jpg",
+      "original_id": "frame_01450.jpg",
+      "original_index": 1449,
+      "sharpness_score": 250.77097861370896
+    },
+    {
+      "output_filename": "frame_00138.jpg",
+      "original_id": "frame_01461.jpg",
+      "original_index": 1460,
+      "sharpness_score": 292.75003515029175
+    },
+    {
+      "output_filename": "frame_00139.jpg",
+      "original_id": "frame_01472.jpg",
+      "original_index": 1471,
+      "sharpness_score": 302.7357361136074
+    },
+    {
+      "output_filename": "frame_00140.jpg",
+      "original_id": "frame_01482.jpg",
+      "original_index": 1481,
+      "sharpness_score": 344.46722552498306
+    },
+    {
+      "output_filename": "frame_00141.jpg",
+      "original_id": "frame_01493.jpg",
+      "original_index": 1492,
+      "sharpness_score": 393.5361657532021
+    },
+    {
+      "output_filename": "frame_00142.jpg",
+      "original_id": "frame_01503.jpg",
+      "original_index": 1502,
+      "sharpness_score": 325.9345538499594
+    },
+    {
+      "output_filename": "frame_00143.jpg",
+      "original_id": "frame_01514.jpg",
+      "original_index": 1513,
+      "sharpness_score": 413.7231341955171
+    },
+    {
+      "output_filename": "frame_00144.jpg",
+      "original_id": "frame_01525.jpg",
+      "original_index": 1524,
+      "sharpness_score": 460.5223571747863
+    },
+    {
+      "output_filename": "frame_00145.jpg",
+      "original_id": "frame_01536.jpg",
+      "original_index": 1535,
+      "sharpness_score": 484.79205542654694
+    },
+    {
+      "output_filename": "frame_00146.jpg",
+      "original_id": "frame_01546.jpg",
+      "original_index": 1545,
+      "sharpness_score": 491.6904167754656
+    },
+    {
+      "output_filename": "frame_00147.jpg",
+      "original_id": "frame_01557.jpg",
+      "original_index": 1556,
+      "sharpness_score": 520.2094148050608
+    },
+    {
+      "output_filename": "frame_00148.jpg",
+      "original_id": "frame_01568.jpg",
+      "original_index": 1567,
+      "sharpness_score": 644.4092157772207
+    },
+    {
+      "output_filename": "frame_00149.jpg",
+      "original_id": "frame_01578.jpg",
+      "original_index": 1577,
+      "sharpness_score": 669.9324550717372
+    },
+    {
+      "output_filename": "frame_00150.jpg",
+      "original_id": "frame_01589.jpg",
+      "original_index": 1588,
+      "sharpness_score": 653.99395118362
+    }
+  ]
+}

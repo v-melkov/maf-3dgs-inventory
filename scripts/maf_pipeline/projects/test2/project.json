@@ -1,0 +1,41 @@
+{
+  "project": "test2",
+  "title": "Скамейка типовая",
+  "object": {
+    "type": "bench",
+    "complexity": "low",
+    "complexity_ru": "низкая"
+  },
+  "survey": {
+    "date": "2026-08-13",
+    "operator": "Мелков В.В",
+    "site": "Парковая зона",
+    "camera": null,
+    "gnss_source": null,
+    "notes": null
+  },
+"etalon": {
+    "type": "нивелирная рейка",
+    "marker_dictionary": "DICT_5X5_100",
+    "marker_size_mm": 100,
+    "markers": [
+      { "id": 1,  "nominal_position_m": 0.0 },
+      { "id": 2,  "nominal_position_m": 0.5 },
+      { "id": 88, "nominal_position_m": 1.0 }
+    ],
+    "measured_distances_mm": {
+      "1-2": 500.0,
+      "2-4": 500.0,
+      "1-4": 1000.0
+    },
+    "comment": "measured_distances_mm заполняется по результатам прямого измерения расстояний между центрами маркеров после их закрепления. Номинальные значения для расчёта не используются."
+  },
+  "pipeline": {
+    "geotag_mode": null,
+    "scale_factor": null,
+    "scale_rmse": null,
+    "georef_rmse": null,
+    "stages_completed": []
+  },
+  "created": "2026-08-13"
+}

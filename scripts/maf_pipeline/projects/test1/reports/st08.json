@@ -1,0 +1,55 @@
+{
+  "stage": "st06_scale",
+  "frames_total": 150,
+  "frames_in_model": 150,
+  "markers": {
+    "1": {
+      "n_views": 12,
+      "n_rejected": 67,
+      "rms_px": 1.0370335275587923,
+      "median_px": 0.7953247973487265,
+      "p90_px": 1.7472029589647229,
+      "max_px": 1.7857614169107696
+    },
+    "2": {
+      "n_views": 19,
+      "n_rejected": 73,
+      "rms_px": 1.788514961792908,
+      "median_px": 1.8305838961737422,
+      "p90_px": 2.3549104721269076,
+      "max_px": 2.9240220849745957
+    },
+    "4": {
+      "n_views": 20,
+      "n_rejected": 47,
+      "rms_px": 1.308413642314795,
+      "median_px": 1.2259685221032672,
+      "p90_px": 1.9539890709414434,
+      "max_px": 2.222490138380559
+    }
+  },
+  "pairs": [
+    {
+      "pair": "1-2",
+      "measured_mm": 500.0,
+      "model_units": 1.4961594609728177,
+      "k_mm_per_unit": 334.18897720627655
+    },
+    {
+      "pair": "1-4",
+      "measured_mm": 1000.0,
+      "model_units": 3.000053872864589,
+      "k_mm_per_unit": 333.3273475669802
+    },
+    {
+      "pair": "2-4",
+      "measured_mm": 500.0,
+      "model_units": 1.5039895152719545,
+      "k_mm_per_unit": 332.44912608954525
+    }
+  ],
+  "scale_factor_mm_per_unit": 333.3218169542674,
+  "scale_rmse_pct": 0.2609906401226734,
+  "rmse_source": "pairs",
+  "monotone_with_base_length": false
+}

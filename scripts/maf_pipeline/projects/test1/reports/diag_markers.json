@@ -1,0 +1,338 @@
+{
+  "sparse": "projects/test1/03_colmap/sparse/0_txt",
+  "frames": "projects/test1/02_frames",
+  "n_images_registered": 150,
+  "n_frames_read": 150,
+  "n_observations": 952,
+  "residuals_px": {
+    "n": 952,
+    "median": 3.84685,
+    "mad": 3.7422306599999993,
+    "mean": 5.431282457983194,
+    "std": 4.433018655804398,
+    "p90": 12.24527,
+    "max": 20.569,
+    "cv_percent": 97.28038940951686
+  },
+  "residuals_by_marker": {
+    "1": {
+      "n": 316,
+      "median": 3.9810499999999998,
+      "mad": 3.8371911899999995,
+      "mean": 5.747310759493671,
+      "std": 4.593074267897651,
+      "p90": 12.4101,
+      "max": 19.9266,
+      "cv_percent": 96.38641036912372
+    },
+    "2": {
+      "n": 368,
+      "median": 4.838100000000001,
+      "mad": 4.2094720500000005,
+      "mean": 5.25228722826087,
+      "std": 3.671849181107663,
+      "p90": 9.84378,
+      "max": 19.702,
+      "cv_percent": 87.00671854653686
+    },
+    "4": {
+      "n": 268,
+      "median": 2.9018,
+      "mad": 2.54517942,
+      "mean": 5.304436567164179,
+      "std": 5.137672953452308,
+      "p90": 13.68142,
+      "max": 20.569,
+      "cv_percent": 87.71036666896408
+    }
+  },
+  "keep_fraction_at_threshold": {
+    "1.0": 0.0861,
+    "1.5": 0.1775,
+    "2.0": 0.2742,
+    "3.0": 0.4244,
+    "5.0": 0.5693
+  },
+  "scale_by_base": {
+    "side_100mm": {
+      "n": 12,
+      "median": 333.3837478877195,
+      "mad": 5.0060762852786,
+      "mean": 332.1895224210869,
+      "std": 4.124688145466174,
+      "p90": 336.7412415285582,
+      "max": 337.71577507005117,
+      "cv_percent": 1.5015957787374206
+    },
+    "diag_141.4mm": {
+      "n": 6,
+      "median": 332.8084728327391,
+      "mad": 2.2869465649829452,
+      "mean": 332.15429021355055,
+      "std": 2.3664389160746975,
+      "p90": 334.35099715823685,
+      "max": 334.81555610343815,
+      "cv_percent": 0.6871659683172505
+    },
+    "centers_1-2_500mm": {
+      "n": 1,
+      "median": 334.184943022407,
+      "mad": 0.0,
+      "mean": 334.184943022407,
+      "std": 0.0,
+      "p90": 334.184943022407,
+      "max": 334.184943022407,
+      "cv_percent": 0.0
+    },
+    "centers_2-4_500mm": {
+      "n": 1,
+      "median": 332.459630193901,
+      "mad": 0.0,
+      "mean": 332.459630193901,
+      "std": 0.0,
+      "p90": 332.459630193901,
+      "max": 332.459630193901,
+      "cv_percent": 0.0
+    },
+    "centers_1-4_1000mm": {
+      "n": 1,
+      "median": 333.33212922460154,
+      "mad": 0.0,
+      "mean": 333.33212922460154,
+      "std": 0.0,
+      "p90": 333.33212922460154,
+      "max": 333.33212922460154,
+      "cv_percent": 0.0
+    }
+  },
+  "scale_detail": [
+    {
+      "type": "side",
+      "marker": 1,
+      "pair": [
+        0,
+        1
+      ],
+      "dist_units": 0.30453424998954554,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 328.37029005254067
+    },
+    {
+      "type": "side",
+      "marker": 1,
+      "pair": [
+        1,
+        2
+      ],
+      "dist_units": 0.3004212895444603,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 332.86589026907393
+    },
+    {
+      "type": "side",
+      "marker": 1,
+      "pair": [
+        2,
+        3
+      ],
+      "dist_units": 0.2994894254801471,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 333.90160550636506
+    },
+    {
+      "type": "side",
+      "marker": 1,
+      "pair": [
+        3,
+        0
+      ],
+      "dist_units": 0.2991811660454219,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 334.24563892774563
+    },
+    {
+      "type": "diagonal",
+      "marker": 1,
+      "pair": [
+        0,
+        2
+      ],
+      "dist_units": 0.42865679899643755,
+      "nominal_mm": 141.4213562373095,
+      "scale_mm_per_unit": 329.91744577107437
+    },
+    {
+      "type": "diagonal",
+      "marker": 1,
+      "pair": [
+        1,
+        3
+      ],
+      "dist_units": 0.4223858588984399,
+      "nominal_mm": 141.4213562373095,
+      "scale_mm_per_unit": 334.81555610343815
+    },
+    {
+      "type": "side",
+      "marker": 2,
+      "pair": [
+        0,
+        1
+      ],
+      "dist_units": 0.30301060622801473,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 330.0214512120089
+    },
+    {
+      "type": "side",
+      "marker": 2,
+      "pair": [
+        1,
+        2
+      ],
+      "dist_units": 0.29610698516898526,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 337.71577507005117
+    },
+    {
+      "type": "side",
+      "marker": 2,
+      "pair": [
+        2,
+        3
+      ],
+      "dist_units": 0.3038450298332803,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 329.11514154063985
+    },
+    {
+      "type": "side",
+      "marker": 2,
+      "pair": [
+        3,
+        0
+      ],
+      "dist_units": 0.2972285681383441,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 336.44141485570566
+    },
+    {
+      "type": "diagonal",
+      "marker": 2,
+      "pair": [
+        0,
+        2
+      ],
+      "dist_units": 0.4251398078127313,
+      "nominal_mm": 141.4213562373095,
+      "scale_mm_per_unit": 332.6467050095761
+    },
+    {
+      "type": "diagonal",
+      "marker": 2,
+      "pair": [
+        1,
+        3
+      ],
+      "dist_units": 0.42356124733366957,
+      "nominal_mm": 141.4213562373095,
+      "scale_mm_per_unit": 333.8864382130355
+    },
+    {
+      "type": "side",
+      "marker": 4,
+      "pair": [
+        0,
+        1
+      ],
+      "dist_units": 0.29905682582692017,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 334.3846097593346
+    },
+    {
+      "type": "side",
+      "marker": 4,
+      "pair": [
+        1,
+        2
+      ],
+      "dist_units": 0.30505900836544764,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 327.8054319254991
+    },
+    {
+      "type": "side",
+      "marker": 4,
+      "pair": [
+        2,
+        3
+      ],
+      "dist_units": 0.29693454667575336,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 336.7745556033196
+    },
+    {
+      "type": "side",
+      "marker": 4,
+      "pair": [
+        3,
+        0
+      ],
+      "dist_units": 0.30804066440537137,
+      "nominal_mm": 100.0,
+      "scale_mm_per_unit": 324.6324643307589
+    },
+    {
+      "type": "diagonal",
+      "marker": 4,
+      "pair": [
+        0,
+        2
+      ],
+      "dist_units": 0.4302584000933458,
+      "nominal_mm": 141.4213562373095,
+      "scale_mm_per_unit": 328.68935552827725
+    },
+    {
+      "type": "diagonal",
+      "marker": 4,
+      "pair": [
+        1,
+        3
+      ],
+      "dist_units": 0.42472671419142566,
+      "nominal_mm": 141.4213562373095,
+      "scale_mm_per_unit": 332.970240655902
+    },
+    {
+      "type": "centers",
+      "pair": [
+        1,
+        2
+      ],
+      "dist_units": 1.4961775221766203,
+      "nominal_mm": 500.0,
+      "scale_mm_per_unit": 334.184943022407
+    },
+    {
+      "type": "centers",
+      "pair": [
+        2,
+        4
+      ],
+      "dist_units": 1.5039419965316818,
+      "nominal_mm": 500.0,
+      "scale_mm_per_unit": 332.459630193901
+    },
+    {
+      "type": "centers",
+      "pair": [
+        1,
+        4
+      ],
+      "dist_units": 3.000010837017733,
+      "nominal_mm": 1000.0,
+      "scale_mm_per_unit": 333.33212922460154
+    }
+  ]
+}

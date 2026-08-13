@@ -1,0 +1,22 @@
+{
+  "stage": "st05_sfm",
+  "pycolmap_version": "4.1.1",
+  "matcher": "sequential",
+  "max_image_size": 1600,
+  "camera_model": "SIMPLE_RADIAL",
+  "n_submodels": 1,
+  "selected_submodel": 0,
+  "timings": {
+    "extraction_s": 52.4,
+    "matching_s": 16.0,
+    "mapping_s": 112.7
+  },
+  "model_text_dir": "03_colmap/sparse/0_txt",
+  "images_total": 150,
+  "images_registered": 150,
+  "registered_pct": 100.0,
+  "points3D": 22375,
+  "mean_track_length": 13.22,
+  "mean_reproj_error_px": 0.939,
+  "cameras": 1
+}

@@ -250,7 +250,7 @@ def main():
     print("\nДалее:")
     print(f"  1. Поместите видео в {root / '00_source'}/")
     print(f"  2. Заполните контрольные измерения "
-          f"в {root / 'reference' / 'measurements.csv'}")
+          f"в {root / 'reference'vj / 'measurements.csv'}")
     print(f"  3. Внесите расстояния между маркерами в {root / 'project.json'}")
 
 
