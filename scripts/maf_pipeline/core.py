@@ -224,6 +224,11 @@ STAGES = [
     ("05_sfm", "Оценка поз камер"),
     ("06_objects", "Сегментация объектов"),
     ("07_models", "Обучение 3DGS-моделей"),
+    ("08_scale",   "Масштабный коэффициент по эталону"),
+    ("09_object",  "Гауссианы объекта: маски в 3D, фильтрация, OBB"),
+    ("10_georef",  "Геопривязка модели"),
+    ("11_card",    "Инвентарная карточка"),
+    ("12_export",  "Экспорт в ГИС"),
 ]
 
 
@@ -255,6 +260,12 @@ class Session:
 
     def object_dir(self, object_id: str, create: bool = True) -> Path:
         p = self.root / "06_objects" / object_id
+        if create:
+            p.mkdir(parents=True, exist_ok=True)
+        return p
+
+    def object_stage_dir(self, stage: str, object_id: str, create: bool = True) -> Path:
+        p = self.root / stage / object_id
         if create:
             p.mkdir(parents=True, exist_ok=True)
         return p

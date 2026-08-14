@@ -97,3 +97,12 @@ train:
   min_free_vram_gib: 6.0
   min_frames_warn: 40
   min_gaussians: 10000        # меньше — вероятна инверсия масок
+
+# --- Этап 10. Геопривязка ---
+georef:
+  min_span_m: 2.0             # меньше — задача вырождена, режим заглушки
+  ransac_threshold_m: 3.0
+  ransac_iterations: 2000
+  huber_m: 2.0
+  rmse_warn_m: 5.0
+  seed: 0
