@@ -138,7 +138,7 @@ def _plot_cameras(session: Session, centers: dict[str, list[float]]) -> list[Pat
 
 def run_stage(session: Session, cfg: dict, force: bool = False,
               assume_yes: bool = False) -> StageReport:
-    session.require_stage("04_geotag")
+    session.require_stage("02_frames")
     rep = StageReport(STAGE)
     out = Out(STAGE, "Оценка поз камер", "COLMAP")
     log = session.log_path(STAGE)

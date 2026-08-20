@@ -29,8 +29,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from maf_pipeline.core import Session, StageError, load_config  # noqa: E402
 from maf_pipeline import (  # noqa: E402
-    env_check, st01_ingest, st02_frames, st03_track, st04_geotag,
-    st05_sfm, st06_segment, st07_train,
+    env_check, st01_ingest, st02_frames, st05_sfm, st06_segment, st07_train,
 )
 
 HERE = Path(__file__).resolve().parent
@@ -65,8 +64,6 @@ def main() -> int:
         ("init", "создать каталог сессии"),
         ("ingest", "этап 01 — приём исходного материала"),
         ("frames", "этап 02 — извлечение и отбор кадров"),
-        ("track", "этап 03 — подготовка трека ГНСС"),
-        ("geotag", "этап 04 — присвоение координат кадрам"),
         ("sfm", "этап 05 — оценка поз камер"),
         ("segment", "этап 06 — сегментация объекта"),
         ("train", "этап 07 — обучение 3DGS-модели"),
@@ -112,11 +109,7 @@ def main() -> int:
             st01_ingest.run_stage(session, cfg, args.force)
         if args.cmd in ("frames", "all"):
             st02_frames.run_stage(session, cfg, args.force)
-        if args.cmd in ("track", "all"):
-            st03_track.run_stage(session, cfg, args.force)
-        if args.cmd in ("geotag", "all"):
-            st04_geotag.run_stage(session, cfg, args.force)
-        if args.cmd in ("sfm", "all"):
+       if args.cmd in ("sfm", "all"):
             st05_sfm.run_stage(session, cfg, args.force, assume_yes=args.yes)
         if args.cmd in ("segment", "all"):
             st06_segment.run_stage(session, cfg, args.object, args.prompt,

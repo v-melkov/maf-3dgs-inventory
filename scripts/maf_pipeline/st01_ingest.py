@@ -166,8 +166,8 @@ def run_stage(session: Session, cfg: dict, force: bool = False) -> StageReport:
             )
 
     # --- начало записи в UTC ---
-    clock_offset = float(cfg["time"].get("clock_offset_s", 0.0))
-    explicit = cfg["time"].get("video_start_utc")
+   # clock_offset = float(cfg["time"].get("clock_offset_s", 0.0))
+   # explicit = cfg["time"].get("video_start_utc")
     if explicit:
         t0 = datetime.fromisoformat(str(explicit).replace("Z", "+00:00"))
         t0_source = "задано в конфигурации"

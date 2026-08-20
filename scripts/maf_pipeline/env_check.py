@@ -107,7 +107,7 @@ def run_env_check(report_path: Path | None = None) -> dict:
     out.kv("exiftool", info["exiftool"] or "НЕ НАЙДЕНА")
     if not exiftool:
         problems.append(
-            "exiftool не найдена — запись координат в EXIF невозможна "
+            "exiftool не найдена — запись времени в EXIF невозможна "
             "(exiftool.org, распакуйте exiftool(-k).exe как exiftool.exe в PATH)"
         )
 
@@ -134,7 +134,6 @@ def run_env_check(report_path: Path | None = None) -> dict:
         ("opencv-python", "cv2"),
         ("Pillow", "PIL"),
         ("matplotlib", "matplotlib"),
-        ("gpxpy", "gpxpy"),
     ]:
         ok, ver = _check_python_package(pkg, imp)
         info.setdefault("packages", {})[pkg] = ver if ok else None
@@ -177,13 +176,6 @@ def run_env_check(report_path: Path | None = None) -> dict:
         if not ok:
             problems.append(f"пакет {pkg} не установлен — сегментация невозможна")
 
-    ok, ver = _check_python_package("pyosmogps", "pyosmogps")
-    info.setdefault("packages", {})["pyosmogps"] = ver if ok else None
-    if not ok:
-        warnings.append(
-            "pyosmogps не установлен — извлечение трека из видеофайла недоступно; "
-            "источником трека может служить готовый GPX"
-        )
 
     # --- итог ---
     out.rule()

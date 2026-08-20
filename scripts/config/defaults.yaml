@@ -11,14 +11,15 @@ ingest:
   max_series_gap_s: 2.0       # допустимый разрыв между файлами одной серии
 
 # --- Время ---
-time:
+#
+#time:
   # Поправка часов камеры относительно шкалы ГНСС, с (п. 2.4.4.3).
   # Определяется съёмкой индикатора точного времени в начале обхода:
   # положительное значение — часы камеры отстают.
-  clock_offset_s: 0.0
+#  clock_offset_s: 0.0
   # Начало записи в UTC. Если не задано, берётся из метаданных файла.
-  video_start_utc: null
-
+#  video_start_utc: null
+#
 # --- Этап 02. Извлечение и отбор кадров ---
 frames:
   extract_fps: 10             # шаг разбора; квантование времени = 1/(2*fps)
@@ -29,26 +30,26 @@ frames:
   min_frames_hard: 30         # ниже — отказ
 
 # --- Этап 03. Трек ГНСС ---
-track:
-  source: video               # video | gpx | nmea
-  path: null                  # путь к файлу при source: gpx или nmea
-  frequency_hz: 5
-  resampling_method: linear   # линейная интерполяция: обход состоит из
+# track:
+#  source: video               # video | gpx | nmea
+#  path: null                  # путь к файлу при source: gpx или nmea
+#  frequency_hz: 5
+#  resampling_method: linear   # линейная интерполяция: обход состоит из
                               # поворотов, на которых lpf вносит запаздывание
-  timezone_offset_h: 0
-  max_gap_s: 5.0
-  max_uncovered_s: 10.0       # непокрытие интервала съёмки больше — отказ
-  jump_factor: 3.0            # скачок относительно медианного шага
-  min_length_m: 5.0
+#  timezone_offset_h: 0
+#  max_gap_s: 5.0
+#  max_uncovered_s: 10.0       # непокрытие интервала съёмки больше — отказ
+#  jump_factor: 3.0            # скачок относительно медианного шага
+#  min_length_m: 5.0
 
 # --- Этап 04. Присвоение координат ---
-geotag:
-  max_interpolate_s: 30       # интерполяция через разрыв не длиннее
-  max_extrapolate_s: 5        # экстраполяция за пределы трека
-  min_share_warn: 0.95
-  min_share_fail: 0.80
-  min_span_m: 1.0             # нулевой разброс = одна отметка на все кадры
-  max_span_m: 500.0           # несоразмерно обходу одного объекта
+#geotag:
+#  max_interpolate_s: 30       # интерполяция через разрыв не длиннее
+#  max_extrapolate_s: 5        # экстраполяция за пределы трека
+#  min_share_warn: 0.95
+#  min_share_fail: 0.80
+#  min_span_m: 1.0             # нулевой разброс = одна отметка на все кадры
+#  max_span_m: 500.0           # несоразмерно обходу одного объекта
 
 # --- Этап 05. Оценка поз камер ---
 sfm:
@@ -99,10 +100,10 @@ train:
   min_gaussians: 10000        # меньше — вероятна инверсия масок
 
 # --- Этап 10. Геопривязка ---
-georef:
-  min_span_m: 2.0             # меньше — задача вырождена, режим заглушки
-  ransac_threshold_m: 3.0
-  ransac_iterations: 2000
-  huber_m: 2.0
-  rmse_warn_m: 5.0
-  seed: 0
+#georef:
+#  min_span_m: 2.0             # меньше — задача вырождена, режим заглушки
+#  ransac_threshold_m: 3.0
+#  ransac_iterations: 2000
+#  huber_m: 2.0
+#  rmse_warn_m: 5.0
+#  seed: 0

@@ -89,9 +89,9 @@
 20. FeatureGS: Eigenvalue-Feature Optimization in 3D Gaussian Splatting for Geometrically Accurate and Artifact-Reduced Reconstruction [Электронный ресурс] // arXiv.org. — 2025. — arXiv:2501.17655. — Режим доступа: https://arxiv.org/abs/2501.17655 (дата обращения: 05.08.2026).
 21. FFmpeg Documentation [Электронный ресурс]. — Режим доступа: https://ffmpeg.org/documentation.html (дата обращения: 06.08.2026)./
 22. Gaussian Splatting : official repository by Inria and MPII [Электронный ресурс] // GitHub. — Режим доступа: https://github.com/graphdeco-inria/gaussian-splatting?tab=License-1-ov-file (дата обращения: 24.07.2026).
-23. Geo Register Plugin : модуль геопривязки сцен для LichtFeld Studio [Электронный ресурс] // GitHub — dozeri83. — Режим доступа: https://github.com/dozeri83/geo-register-plugin (дата обращения: 06.08.2026).
+
 24. GeoPackage Encoding Standard [Электронный ресурс] // Open Geospatial Consortium. — Режим доступа: https://www.geopackage.org/spec/ (дата обращения: 06.08.2026).
-25. gpscorrelate : утилита сопоставления фотографий с треками ГНСС [Электронный ресурс] // GitHub. — Режим доступа: https://github.com/dfandrich/gpscorrelate (дата обращения: 06.08.2026).
+
 26. GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision [Электронный ресурс] // arXiv.org. — 2024. — arXiv:2412.00392. — Режим доступа: https://arxiv.org/abs/2412.00392 (дата обращения: 05.08.2026).
 27. gsplat : библиотека 3D Gaussian Splatting под лицензией Apache License 2.0 [Электронный ресурс] // GitHub — Nerfstudio Project. — Режим доступа: https://github.com/nerfstudio-project/gsplat?tab=Apache-2.0-1-ov-file (дата обращения: 24.07.2026).
 28. Guédon, A. SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering [Текст] / A. Guédon, V. Lepetit // Proceedings of the IEEE/CVF CVPR. — 2024. — P. 5354–5363.
@@ -115,7 +115,7 @@
 46. Sharp Frame Python : утилита извлечения кадров из видео по критерию резкости [Электронный ресурс] // GitHub. — Режим доступа: https://github.com/Reflct/sharp-frames-python (дата обращения: 06.08.2026).
 47. Shen, H. Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing [Текст] / H. Shen, J. Ni, Y. Chen [и др.] // Proceedings of the IEEE/CVF ICCV. — 2025.
 48. Somanath, S. Towards Urban Digital Twins: A Workflow for Procedural Visualization Using Geospatial Data [Текст] / S. Somanath, V. Naserentin, O. Eleftheriou [и др.] // Remote Sensing. — 2024. — Vol. 16, № 11. — P. 1939. — DOI: 10.3390/rs16111939.
-49. Umeyama, S. Least-Squares Estimation of Transformation Parameters Between Two Point Patterns [Текст] / S. Umeyama // IEEE Transactions on Pattern Analysis and Machine Intelligence. — 1991. — Vol. 13, № 4. — P. 376–380. — DOI: 10.1109/34.88573.
+
 50. Wang, D. Automated Dimensional Measurement of Large-Scale Prefabricated Components Based on UAV Multi-View Images and Improved 3D Gaussian Splatting [Текст] / D. Wang // Buildings. — 2026. — Vol. 16, № 5. — Art. 1054. — DOI: 10.3390/buildings16051054.
 51. Wegner, J. D. Cataloging Public Objects Using Aerial and Street-Level Images — Urban Trees [Текст] / J. D. Wegner, S. Branson, D. Hall, K. Schindler, P. Perona // IEEE CVPR. — Las Vegas, 2016. — P. 6014–6023. — DOI: 10.1109/CVPR.2016.647.
 52. Zhou, Yuzhou. Street-view imagery guided street furniture inventory from mobile laser scanning point clouds [Текст] / Zhou Yuzhou, Han Xu, Peng Mingjun [и др.] // ISPRS Journal of Photogrammetry and Remote Sensing. — 2022. — Vol. 189. — P. 63–77. — DOI: 10.1016/j.isprsjprs.2022.04.023.
