@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 452" width="700" height="452" font-family="Arial, Helvetica, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiN2JlNmZiOC02Mjk2LTRkMjMtYTZjOC02MGEwNGQ0NmY2NTAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJuedu+AG32m1rYCD1XXl/QAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozYjc3NDhjMy0zNjJhLTRiNjgtYjY5ZS01ZTg3YTg3YzgwNWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoR0EfzMYpRaqjwgZhOj53vwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg/NG4HWWAwyBZ/vgHaGWbs8KcRO9SmVVijGdieZLPiMWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCBr9jNWfjbn+zokJ+X9idQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD+AQwLxhTE4oaXvXKpMc8C3BmWKZmXpvFQCEBnmgHmJGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjBZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmI3YmU2ZmI4LTYyOTYtNGQyMy1hNmM4LTYwYTA0ZDQ2ZjY1MC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmI1NWMxMzBmLTQxZjItNDg0NC05M2RkLWIzY2UxNjY5ZTg2Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD80bgdZYDDIFn++AdoZZuzwpxE71KZVWKMZ2J5ks+IxaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggTIcnE4hilwr3tZqZUJp7s+HG8iflpWCtvfEyFdbfk+yiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg0jk4EhvLihNaCkY0mRgK+BcruEKdxFaJ7PaXdr7gQBV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHP8crprJ1j4TdonKWBiqlvaqfEbORM5KFkXEE9eFrcFsouMcZHIla+O5gG3VtwEvDYZnR7sdH0eDWrBs6kmA1U=</c2pa:manifest></metadata>
+  <defs>
+    <marker id="arrC" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
+      <path d="M0,0 L9,4.5 L0,9 z" fill="#1a1a1a"/>
+    </marker>
+    <marker id="dimS" markerWidth="8" markerHeight="8" refX="1" refY="4" orient="auto">
+      <path d="M8,0 L0,4 L8,8 z" fill="#a52a2a"/>
+    </marker>
+    <marker id="dimE" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#a52a2a"/>
+    </marker>
+  </defs>
+  <rect width="700" height="452" fill="#ffffff"/>
+
+  <!-- titles -->
+  <text x="175" y="24" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">а) проекция на плоскость изображения</text>
+  <text x="175" y="40" font-size="11" text-anchor="middle" fill="#6a6a6a">то, что оценивают mIoU и PSNR</text>
+  <text x="520" y="24" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">б) вид сверху: положение в пространстве</text>
+  <text x="520" y="40" font-size="11" text-anchor="middle" fill="#6a6a6a">то, что определяет габаритный размер</text>
+
+  <rect x="20" y="50" width="310" height="252" fill="#fcfcfc" stroke="#9a9a9a" stroke-width="1"/>
+  <rect x="360" y="50" width="320" height="252" fill="#fcfcfc" stroke="#9a9a9a" stroke-width="1"/>
+
+  <!-- ===================== PANEL A ===================== -->
+  <!-- reference mask silhouette -->
+  <g fill="#e6ecf2" stroke="#1a1a1a" stroke-width="1.6" stroke-dasharray="5 3">
+    <rect x="110" y="110" width="130" height="30"/>
+    <rect x="100" y="158" width="150" height="18"/>
+    <rect x="112" y="176" width="12" height="54"/>
+    <rect x="226" y="176" width="12" height="54"/>
+  </g>
+
+  <!-- gaussians of the object -->
+  <g>
+    <circle cx="131.3" cy="133.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="136.0" cy="116.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="124.7" cy="112.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="174.0" cy="122.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="215.7" cy="136.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="203.8" cy="118.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="174.3" cy="135.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="200.9" cy="118.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="214.4" cy="117.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="210.2" cy="122.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="144.7" cy="135.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="152.2" cy="112.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="213.3" cy="129.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="227.9" cy="118.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="150.6" cy="128.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="190.9" cy="119.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="150.4" cy="125.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="161.2" cy="127.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="201.5" cy="136.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="160.4" cy="127.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="202.6" cy="122.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="192.2" cy="120.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="227.0" cy="123.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="148.3" cy="135.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="116.7" cy="121.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="223.2" cy="132.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="149.7" cy="117.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="217.0" cy="125.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="177.8" cy="113.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="115.1" cy="136.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="213.1" cy="130.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="142.6" cy="127.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="230.3" cy="118.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="196.9" cy="124.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="214.3" cy="173.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="227.8" cy="167.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="223.2" cy="164.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="247.3" cy="169.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="161.0" cy="164.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="119.0" cy="164.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="173.8" cy="167.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="231.3" cy="160.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="112.8" cy="167.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="177.3" cy="165.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="107.0" cy="162.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="110.6" cy="170.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="121.9" cy="161.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="136.9" cy="162.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="179.1" cy="166.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="209.3" cy="170.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="121.9" cy="169.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="198.2" cy="165.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="241.4" cy="170.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="187.5" cy="170.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="176.4" cy="163.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="198.2" cy="167.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="163.3" cy="163.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="227.7" cy="162.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="149.9" cy="165.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="127.7" cy="171.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="177.9" cy="168.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="124.1" cy="161.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="196.4" cy="171.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="160.0" cy="160.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="116.6" cy="218.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="116.2" cy="188.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="119.2" cy="184.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="120.4" cy="189.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="118.5" cy="222.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="117.9" cy="184.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="119.0" cy="184.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="117.1" cy="185.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="114.7" cy="215.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="119.8" cy="214.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="228.8" cy="176.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="233.6" cy="185.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="228.8" cy="190.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="235.8" cy="181.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="231.4" cy="213.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="232.1" cy="217.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="230.6" cy="221.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="228.8" cy="200.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="231.6" cy="199.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="231.5" cy="180.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+  </g>
+
+  <!-- the outlier, projected INSIDE the mask -->
+  <circle cx="196" cy="126" r="6.5" fill="#d14545" stroke="#7d1f1f" stroke-width="1.4"/>
+  <path d="M 262 96 L 206 119" fill="none" stroke="#a52a2a" stroke-width="1.3" marker-end="url(#arrC)"/>
+  <text x="266" y="94" font-size="10.5" fill="#a52a2a">выбросный гауссиан</text>
+
+  <text x="175" y="258" font-size="10.5" text-anchor="middle" fill="#1a1a1a">Выброс проецируется внутрь маски объекта.</text>
+  <text x="175" y="274" font-size="10.5" text-anchor="middle" fill="#1a1a1a">Его вклад в mIoU и PSNR пренебрежимо мал</text>
+  <text x="175" y="290" font-size="10.5" text-anchor="middle" fill="#1a1a1a">из-за усреднения при альфа-смешивании.</text>
+
+  <!-- ===================== PANEL B ===================== -->
+  <!-- camera -->
+  <rect x="374" y="166" width="18" height="16" fill="#8a8a8a" stroke="#1a1a1a" stroke-width="1.1"/>
+  <path d="M 392 168 L 404 162 L 404 186 L 392 180 Z" fill="#8a8a8a" stroke="#1a1a1a" stroke-width="1.1"/>
+  <text x="383" y="203" font-size="10.5" text-anchor="middle" fill="#1a1a1a">камера</text>
+
+  <!-- viewing ray -->
+  <path d="M 406 174 L 650 174" fill="none" stroke="#9a9a9a" stroke-width="1.2" stroke-dasharray="6 4"/>
+  <text x="520" y="134" font-size="10.5" text-anchor="middle" fill="#8a8a8a">луч визирования</text>
+
+  <!-- stretched OBB (red) -->
+  <rect x="445" y="144" width="187" height="62" fill="none" stroke="#a52a2a" stroke-width="2.2"/>
+  <!-- correct OBB (dashed) -->
+  <rect x="448" y="147" width="137" height="56" fill="none" stroke="#1a1a1a" stroke-width="1.6" stroke-dasharray="6 4"/>
+
+  <!-- gaussians of the object -->
+  <g>
+    <circle cx="545.0" cy="157.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="523.5" cy="156.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="552.7" cy="173.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="473.9" cy="171.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="503.4" cy="189.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="560.4" cy="186.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="565.7" cy="154.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="530.4" cy="176.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="534.4" cy="194.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="454.5" cy="196.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="501.9" cy="173.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="550.6" cy="196.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="517.2" cy="196.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="562.8" cy="194.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="536.7" cy="191.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="526.6" cy="160.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="522.8" cy="173.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="574.7" cy="193.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="467.6" cy="191.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="509.5" cy="153.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="454.3" cy="172.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="503.2" cy="161.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="454.3" cy="196.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="497.0" cy="182.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="509.7" cy="153.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="508.2" cy="155.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="489.9" cy="183.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="572.9" cy="193.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="549.0" cy="154.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="455.1" cy="165.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="501.1" cy="168.7" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="540.7" cy="196.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="544.7" cy="160.8" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="566.7" cy="170.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="540.6" cy="169.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="513.8" cy="178.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="559.1" cy="182.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="561.6" cy="153.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="525.2" cy="190.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="510.7" cy="164.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="575.5" cy="188.2" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="573.6" cy="158.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="516.3" cy="168.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="498.6" cy="170.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="523.4" cy="163.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="571.2" cy="161.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="566.7" cy="156.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="517.5" cy="167.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="466.7" cy="173.5" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="458.4" cy="185.0" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="503.6" cy="183.1" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="527.6" cy="183.6" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="475.8" cy="180.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="546.2" cy="168.4" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="518.3" cy="188.3" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+    <circle cx="458.5" cy="191.9" r="2.2" fill="#2d5f8a" opacity="0.75"/>
+  </g>
+
+  <!-- the outlier, far along the ray -->
+  <circle cx="624" cy="174" r="6.5" fill="#d14545" stroke="#7d1f1f" stroke-width="1.4"/>
+
+  <!-- delta dimension -->
+  <path d="M 585 228 L 632 228" stroke="#a52a2a" stroke-width="1.5" marker-start="url(#dimS)" marker-end="url(#dimE)"/>
+  <line x1="585" y1="208" x2="585" y2="232" stroke="#a52a2a" stroke-width="1"/>
+  <line x1="632" y1="208" x2="632" y2="232" stroke="#a52a2a" stroke-width="1"/>
+  <text x="608" y="246" font-size="12" font-weight="bold" text-anchor="middle" fill="#a52a2a">Δ</text>
+
+  <text x="520" y="274" font-size="10.5" text-anchor="middle" fill="#1a1a1a">Выброс смещён по лучу и задаёт экстремум координаты.</text>
+  <text x="520" y="290" font-size="10.5" text-anchor="middle" fill="#1a1a1a">Габаритный размер завышается на величину Δ.</text>
+
+  <!-- ===================== LEGEND ===================== -->
+  <circle cx="34" cy="322" r="4" fill="#2d5f8a" opacity="0.75"/>
+  <text x="46" y="326" font-size="10.5" fill="#1a1a1a">гауссианы поверхности объекта</text>
+  <circle cx="246" cy="322" r="5.5" fill="#d14545" stroke="#7d1f1f" stroke-width="1.2"/>
+  <text x="258" y="326" font-size="10.5" fill="#1a1a1a">выбросный гауссиан</text>
+  <line x1="412" y1="322" x2="440" y2="322" stroke="#1a1a1a" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="448" y="326" font-size="10.5" fill="#1a1a1a">OBB по поверхности</text>
+  <line x1="578" y1="322" x2="606" y2="322" stroke="#a52a2a" stroke-width="2.2"/>
+  <text x="614" y="326" font-size="10.5" fill="#1a1a1a">OBB с выбросом</text>
+
+  <!-- ===================== CONCLUSION ===================== -->
+  <rect x="20" y="344" width="660" height="92" rx="4" fill="#fbeeee" stroke="#a52a2a" stroke-width="1.8"/>
+  <text x="350" y="368" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Измерение не сводится к сегментации</text>
+  <text x="350" y="390" font-size="11.5" text-anchor="middle" fill="#1a1a1a">Один и тот же гауссиан почти не влияет на двумерные метрики качества разметки,</text>
+  <text x="350" y="408" font-size="11.5" text-anchor="middle" fill="#1a1a1a">но напрямую завышает габаритный размер при построении ограничивающего параллелепипеда.</text>
+  <text x="350" y="426" font-size="11.5" text-anchor="middle" fill="#1a1a1a">Отсюда — необходимость самостоятельного этапа фильтрации перед измерением.</text>
+</svg>
